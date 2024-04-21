@@ -86,3 +86,4 @@ contract ArraysExercise {
         delete timestamps;
     }
 }
+///You can also copy contract address right on the remixIde once your deployment transaction succeed
