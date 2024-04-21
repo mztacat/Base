@@ -52,3 +52,4 @@ contract EmployeeStorage {
         shares = 1000; // Reset shares to 1000
     }
 }
+/// if you find it difficult to copy code, use the download icon at the top and then rename the file after downloading to have .sol extension. then just import it into remix
