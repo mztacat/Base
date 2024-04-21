@@ -52,11 +52,7 @@ contract ErrorTriageExercise {
         return _base - uint(-_modifier);
     }
 
-    /**
-     * @dev Pop the last element from the supplied array, and return the popped value (unlike the built-in function).
-     * 
-     * @return returnNum The popped value from the array.
-     */
+
     uint[] arr;
 
     function popWithReturn() public returns (uint returnNum) {
