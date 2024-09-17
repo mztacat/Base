@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 // Contract for an unburnable token
 contract UnburnableToken {
-    string private salt = "value"; // A private string variable
+    string private salt = "1234567"; // A private string variable
 
     // Mapping to track token balances of addresses
     mapping(address => uint256) public balances;
