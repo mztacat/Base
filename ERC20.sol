@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/utils/structs/EnumerableSet.sol";
 
 // Contract for weighted voting using ERC20 token
 contract WeightedVoting is ERC20 {
-    string private salt = "value"; // A private string variable
+    string private salt = "1122334455"; // A private string variable
     using EnumerableSet for EnumerableSet.AddressSet; // Importing EnumerableSet for address set functionality
 
     // Custom errors
