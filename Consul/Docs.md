@@ -1,4 +1,4 @@
-# How to Deploy According to the Exercise Instructions
+# How to Deploy According to the Exercise Instructions **Inheritance.sol** :
 
 ## 1. Deploy `Salesperson`
 Use these constructor values:
